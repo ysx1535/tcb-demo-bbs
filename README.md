@@ -1,14 +1,15 @@
-# RssHub
-练手小程序，一个类似同事、脉脉的小程序。
+# 论坛小程序案例
 
-> Note：一开始只是想做个Rss阅读器，所以用了RssHub这个名字。
+基于小程序·云开发的论坛小程序DEMO
 
-# 预览
+## 注意事项
+- 教程在：[小程序·云开发系列教程](https://github.com/TencentCloudBase/mp-book)
+- 打开的时候记得填写 `project.config.json` 中的 `appid` 字段，其它功能的试用，请参考教程里的[小程序中级场景及开发教学](https://github.com/TencentCloudBase/mp-book/blob/master/medium-tutorial/ai.md) 进行配置试用。
 
-# TODO&DONE
-- [x] 基础功能：浏览帖子列表、发表帖子、浏览帖子详情并支持文字评论。[【小程序+云开发】实战：一天搭建小型论坛
-](http://vimerzhao.top/2018/11/25/%E3%80%90%E5%B0%8F%E7%A8%8B%E5%BA%8F-%E4%BA%91%E5%BC%80%E5%8F%91%E3%80%91%E5%AE%9E%E6%88%98%EF%BC%9A%E4%B8%80%E5%A4%A9%E6%90%AD%E5%BB%BA%E5%B0%8F%E5%9E%8B%E8%AE%BA%E5%9D%9B/)
-- [ ] 系统学习下JS、CSS，优化交互、UI和逻辑（分页加载）。
-- [ ] 个人帐号体系，支持我的帖子、我的收藏等，数据库优化。
-- [ ] 尝试独立后端，突破目前云开发的限制。
+### 下载或clone代码包
+```javascript
+git clone https://github.com/TencentCloudBase/tcb-demo-bbs.git
+```
 
+## 体验
+点击小程序开发IDE中的“预览”，用微信扫一扫即可体验
