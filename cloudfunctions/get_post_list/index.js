@@ -15,6 +15,7 @@ exports.main = async (event, context) => {
       watch_count: true,
       update_time: true,
       author_name: true,
+      is_anonymous: true,
     }).orderBy('update_time', 'desc').get()
 
   }

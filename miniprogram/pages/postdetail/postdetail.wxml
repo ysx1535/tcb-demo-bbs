@@ -1,11 +1,11 @@
 <view class='postdetail' wx:if='{{contentLoaded && imagesLoaded && commentLoaded}}'>
     <view class='title_area'>
         <view class='avatar_area'>
-            <image class='avatar' src='{{detail.author_avatar_url}}'/>
+            <image class='avatar' src="{{detail.is_anonymous?'../../images/headimg.jpg':detail.author_avatar_url}}"/>
         </view>
         <view class='text_area'>
             <view>
-                <text class='author_name'>{{detail.author_name}}</text>
+                <text class='author_name'>{{detail.is_anonymous?'匿名':detail.author_name}}</text>
             </view>
             <view class='publish_time'>
                 <text class='publish_time'>发表于{{detail.publish_time}}</text>

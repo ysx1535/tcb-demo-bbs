@@ -8,5 +8,8 @@
             <image bindtap="chooseimage" class="moment_img" src='../../images/add.png'></image>
         </view>
     </view>
+    <view class="switch">
+      匿名 <switch bindchange="switchChange" color="#00BFFF"/>
+    </view>
     <button bindtap="send">发布</button>
 </view>

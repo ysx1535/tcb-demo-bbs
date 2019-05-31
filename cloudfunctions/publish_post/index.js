@@ -14,6 +14,7 @@ exports.main = async (event, context) => {
         author_name: event.author_name,
         author_avatar_url: event.author_avatar_url,
         content: event.content,
+        is_anonymous: event.is_anonymous,
         image_url: event.image_url,
         publish_time: Date.now(),
         update_time: Date.now(),

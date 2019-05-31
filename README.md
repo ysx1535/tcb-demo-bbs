@@ -12,6 +12,5 @@ git clone https://github.com/TencentCloudBase/tcb-demo-bbs.git
 ```
 
 ## 体验
-<<<<<<< HEAD
 点击小程序开发IDE中的“预览”，用微信扫一扫即可体验.
 

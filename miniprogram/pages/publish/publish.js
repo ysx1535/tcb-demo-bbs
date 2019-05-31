@@ -9,6 +9,7 @@ Page({
     img_url: [],
     content: '',
     clould_img_id_list: [],
+    is_anonymous: false,
     maxContentLength: 1000,
     minContentLength: 5
   },
@@ -80,6 +81,7 @@ Page({
         author_name: app.globalData.wechatNickName,
         author_avatar_url: app.globalData.wechatAvatarUrl,
         content: that.data.content,
+        is_anonymous: that.data.is_anonymous,
         image_url: img_url_ok,
       },
       success: function (res) {
@@ -145,6 +147,16 @@ Page({
  
     }  
     
+  },
+
+  /**
+   * 监测匿名开关
+   */
+  switchChange: function (e) {
+    const that = this;
+    that.setData({
+      is_anonymous: e.detail.value
+    })
   },
 
   /**
