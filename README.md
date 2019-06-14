@@ -7,6 +7,7 @@
 - 打开的时候记得填写 `project.config.json` 中的 `appid` 字段，其它功能的试用，请参考教程里的[小程序中级场景及开发教学](https://github.com/TencentCloudBase/mp-book/blob/master/medium-tutorial/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%B8%AD%E7%BA%A7%E5%9C%BA%E6%99%AF%E5%8F%8A%E5%BC%80%E5%8F%91%E6%95%99%E5%AD%A6.md) 进行配置试用。
 
 ### 教程下载
+https://github.com/TencentCloudBase/tcb-demo-bbs/blob/master/%E8%AE%BA%E5%9D%9B%20-%20%E6%95%99%E6%9D%90.pdf
 ### 下载或clone代码包
 ```javascript
 git clone https://github.com/TencentCloudBase/tcb-demo-bbs.git
