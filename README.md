@@ -12,6 +12,9 @@ https://github.com/TencentCloudBase/tcb-demo-bbs
 ![](https://puui.qpic.cn/vupload/0/20190617_1560738936194_ob53fa4gf7.png/0)
 ![](https://puui.qpic.cn/vupload/0/20190617_1560739437795_a5e6p2vd5ub.png/0)
 ![](https://puui.qpic.cn/vupload/0/20190617_1560739646823_ul13mvajit.png/0)
+
+教程part1完整源码下载
+<https://github.com/TencentCloudBase/tcb-demo-bbs/tree/master/part1-intact>
 ### 下载或clone代码包
 ```javascript
 git clone https://github.com/TencentCloudBase/tcb-demo-bbs.git
