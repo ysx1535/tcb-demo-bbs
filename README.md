@@ -8,6 +8,7 @@
 
 ### 教程下载
 https://github.com/TencentCloudBase/tcb-demo-bbs
+![](https://puui.qpic.cn/vupload/0/20190617_1560738622804_zvi716ahevb.png/0)
 ### 下载或clone代码包
 ```javascript
 git clone https://github.com/TencentCloudBase/tcb-demo-bbs.git
