@@ -18,6 +18,8 @@ https://github.com/TencentCloudBase/tcb-demo-bbs
 
 ### 教程part2完整源码下载：
 <https://github.com/TencentCloudBase/tcb-demo-bbs/tree/master/part2-intact>
+
+> 教程part2比教程part1多了一个匿名发布功能
 ### 下载或clone代码包
 ```javascript
 git clone https://github.com/TencentCloudBase/tcb-demo-bbs.git
